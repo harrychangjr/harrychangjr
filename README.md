@@ -12,7 +12,7 @@
 - Public Health Intern, [Saw Swee Hock School of Public Health](https://sph.nus.edu.sg/) - January to May 2021
 - Data Migration Intern, [Immigration@SG LLP](https://iasg.com.sg/) - October 2020 to January 2021
 
-Portfolio: [Streamlit Website](https://harrychangjr-portfolio-app-eh84yv.streamlit.app/)
+Portfolio: [Streamlit Website](https://harrychangjr.streamlit.app/)
 
 <!--
 **harrychangjr/harrychangjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
