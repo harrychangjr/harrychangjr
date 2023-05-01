@@ -1,4 +1,4 @@
-### Data Analyst / Data Scientist
+### Data Analyst / Data Scientist  ![Visitors](https://api.visitorbadge.io/api/visitors?path=github.com%2Fharrychangjr&label=stalkers&countColor=%23263759&style=plastic)
 
 💻 Class of 2024: Data Science and Analytics Undergraduate, [National University of Singapore](https://nus.edu.sg)
 
