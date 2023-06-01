@@ -6,7 +6,7 @@
 
 👨🏼‍💻 Internship Experiences:
 - Product Analyst, [Sephora](https://www.sephora.sg/) - June to December 2023
-- Marketing, [Quest](https://quest-inc.co) - April to June 2023
+- Marketing, [Quest](https://quest-inc.co) - April to May 2023
 - Pricing Actuary, [SCOR](https://scor.com) - May to August 2022
 - Data Analyst, [Quest](https://quest-inc.co) - February to May 2022
 - Public Health Intern, [Saw Swee Hock School of Public Health](https://sph.nus.edu.sg/) - January to May 2021
